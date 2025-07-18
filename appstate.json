@@ -28,11 +28,7 @@
     },
     {
         "key": "sb",
-        "value": "LW1ZaGCpeDI-XqHwxT7XbdnI",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": true,
-        "creation": "2025-07-15T15:09:06.050Z",
+        "value": ":09:06.050Z",
         "lastAccessed": "2025-07-15T15:09:06.050Z"
     },
     {
@@ -55,7 +51,7 @@
     },
     {
         "key": "vpd",
-        "value": "v1%3B634x375x3",
+        "value": "v1%3B63",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": true,

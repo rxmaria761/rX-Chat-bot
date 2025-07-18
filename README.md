@@ -1,31 +1,14 @@
-name: Node.js CI
+## License
 
-on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+This project is licensed under the GNU General Public License v3.0 or later - see the [COPYING](./COPYING) file for details.
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [20.x]
 
-    steps:
-    - uses: actions/checkout@v2
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-    - name: Install dependencies
-      run: npm install
 
-    - name: Start the bot
-      env:
-        PORT: 8080
-      run: npm start
+
+rX CHAT BOT 
+
+OWNAR RX ABDULLAH 

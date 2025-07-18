@@ -15,12 +15,9 @@ Welcome to the **RX ChatBot** intro project. This is a sleek, hacker-style webpa
 
 ## 🚀 Features
 
-- 🖼️ Profile photo with circular frame and neon border  
-- 🧑 Owner details (Name, Age, Class, Favorite color)  
-- 📨 Big "Message Me" button (links to Messenger)  
-- 📃 About Me section with **typing animation**
-- 🖤 Dark background with neon green and cyan highlights
-- 🔐 Lightly obfuscated JavaScript to prevent easy code copying
+-  Chat ai
+-  smart telking
+- etc
 
 ---
 
